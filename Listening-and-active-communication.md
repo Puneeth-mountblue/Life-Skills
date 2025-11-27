@@ -6,8 +6,8 @@
 4. Use Verbal & Non-Verbal Encouragement
 5. Ask Open-Ended Questions
 6. Avoid Judging or Giving Solutions Too Early
-7. Summarize or Paraphrase When Needed (small addition)
-8. Show Empathy Through Tone and Body Language (small addition)
+7. Summarize or Paraphrase When Needed 
+8. Show Empathy Through Tone and Body Language 
 
 ---
 
