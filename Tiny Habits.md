@@ -4,7 +4,7 @@
 
 ### **Question 1 – Most interesting idea**
 
-The most interesting idea is how *tiny actions*, like doing just two push-ups or flossing one tooth, can grow into big habits. Starting small makes change feel easy instead of overwhelming.
+The most interesting idea is how tiny actions, like doing just two push-ups or flossing one tooth, can grow into big habits. Starting small makes change feel easy instead of overwhelming.
 
 ---
 
