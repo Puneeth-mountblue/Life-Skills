@@ -1,78 +1,71 @@
-## **Question 1: Calm Quadrant Activities**
+# Energy Management
 
-* Sitting quietly or doing nothing
-* Listening to soft music
-* Walking slowly in nature
-* Deep breathing
+## 1. Manage Energy, Not Time
+
+### Calm Quadrant Activities
+
+* Listening to music
+* Walking without a goal
 * Light stretching or yoga
-* Reading for relaxation
-* Taking a warm shower
+* Watching something relaxing
 * Spending quiet time alone
 
----
+### Stress Quadrant Situations
 
-## **Question 2: When You Enter the Stress Quadrant**
+* Learning a new or difficult concept
+* Tight deadlines
+* Handling multiple tasks at once
+* Public speaking or presentations
 
-* When learning something difficult
-* When facing deadlines
-* During conflicts or misunderstandings
-* When too many tasks pile up
-* When trying something totally new
-* When starting intense physical activity or workouts
+### Excitement Quadrant Signs
 
----
+* Feeling focused and motivated
+* Losing track of time while working
+* Feeling challenged but confident
+* High energy without anxiety
 
-## **Question 3: Signs You’re in the Excitement Quadrant**
+## 2. Understanding Energy Sources
 
-* Feeling energetic and enthusiastic
-* Wanting to start things immediately
-* Feeling motivated but not overwhelmed
-* Having positive anticipation about a task
-* Feeling mentally sharp and focused
+Physical, emotional, spiritual, and intellectual energy together help maintain balance, motivation, and focus.
 
----
+## 3. Meditation
 
-## **Question 4: Paraphrase — *Sleep Is Your Superpower* (brief points only)**
+Calm minds think clearly, recover faster from stress, and perform better. Even one minute of mindful breathing can reset the mind.
 
-* Sleep boosts learning and memory
-* Sleep strengthens the immune system
-* Lack of sleep increases disease risk
-* Sleep improves emotional balance
-* Poor sleep reduces performance and decision-making
+## 4. Sleep Is Your Superpower
 
----
+### Key Points
 
-## **Question 5: Ideas to Sleep Better**
+* Improves learning and memory
+* Increases focus and productivity
+* Strengthens immunity
+* Reduces stress and anxiety
+* Supports emotional balance
+* Impacts long-term health
 
-* Keep a consistent sleep schedule
-* Reduce screen time before bed
-* Keep the room cool and dark
-* Avoid caffeine late in the day
-* Have a relaxing pre-sleep routine
-* Limit heavy meals before bedtime
-* Reduce noise and distractions
+### Ideas to Sleep Better
 
----
+* Maintain fixed sleep and wake times
+* Avoid screens before bedtime
+* Limit caffeine intake
+* Follow a relaxing bedtime routine
+* Keep the room dark and cool
 
-## **Question 6: Paraphrase — *Brain-Changing Benefits of Exercise* (minimum 5 points)**
+## 5. Brain-Changing Benefits of Exercise
 
-* Exercise increases blood flow to the brain
-* It boosts mood by releasing “feel-good” chemicals
-* Exercise improves memory and learning
-* It reduces stress and anxiety
-* It helps grow new brain cells
-* It slows down brain aging
+### Key Points
 
----
+* Improves brain function
+* Boosts memory and learning
+* Reduces stress and anxiety
+* Improves mood
+* Increases focus and attention
+* Protects the brain from aging
 
-## **Question 7: Steps to Exercise More**
+### Steps to Exercise More
 
-* Start with short, easy workouts
-* Choose activities you enjoy
-* Walk more during the day
-* Schedule exercise like an appointment
-* Track progress to stay motivated
-* Exercise with a friend for accountability
-* Keep workout clothes ready in advance
-
-
+* Take daily short walks
+* Do light stretching regularly
+* Try simple home workouts
+* Use stairs instead of elevators
+* Play a sport or be physically active regularly
