@@ -1,52 +1,31 @@
-## **1. Grit**
+# Grit and Growth Mindset
 
-### Question 1 
+## 1. Grit
 
-The video explains that *grit* is the combination of passion and perseverance—sticking with long-term goals even when things get hard. Success comes more from consistent effort than from talent alone.
+Grit is about staying committed to long-term goals and continuing to put in effort despite failures, setbacks, or slow progress.
 
----
+## 2. Introduction to Growth Mindset
 
-## **2. Introduction to Growth Mindset**
+A growth mindset is the belief that abilities and intelligence can be developed through effort, learning, and persistence rather than being fixed.
 
-### Question 2 
+## 3. Understanding Internal Locus of Control
 
-The video says that people with a *growth mindset* believe they can develop skills through practice and learning. This mindset helps them improve, embrace challenges, and keep trying instead of giving up.
+Internal Locus of Control means believing that your actions and decisions directly influence your results.
+The key point of the video is to focus on what you can control instead of blaming external factors.
 
----
-
-## **3. Understanding Internal Locus of Control**
-
-### **Question 3 – What is it & Key Point**
-
-* **Internal Locus of Control:** It means believing that *your actions* influence your success, not luck or external factors.
-* **Key Point:** You stay motivated when you take responsibility for your outcomes and focus on what you *can control*.
-
----
-
-## **4. How to Build a Growth Mindset**
-
-### Question 4 – Key Points 
+## 4. How to Build a Growth Mindset
 
 * Embrace challenges
 * Learn from mistakes
-* Replace negative self-talk
-* Focus on effort, not just results
-* Set achievable goals
-* Stay consistent
-* Seek feedback
-* Celebrate progress
+* Put effort before talent
+* Accept feedback positively
+* Be persistent
+* Replace “I can’t” with “I can learn.”
 
----
+## 5. Building Growth Mindset as a Software Developer
 
-## **5. Mindset – MountBlue Warrior Reference**
-
-### **Question 5 – Your Ideas to Take Action**
-
-* Practice coding regularly, even when it feels difficult
-* Treat mistakes as learning opportunities
-* Ask for feedback from mentors or teammates
-* Break large tasks into smaller steps
-* Try new tools and technologies without fear
-* Keep a journal of what you learn each day
-* Stay patient—growth takes time
-* Surround yourself with people who encourage learning
+* Practice daily coding even when it feels difficult
+* Treat bugs and failures as learning opportunities
+* Ask for feedback and act on it
+* Learn new technologies consistently
+* Focus on improvement, not comparison
